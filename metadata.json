@@ -1,0 +1,6 @@
+{
+  "name": "Nusantara TV",
+  "description": "Custom Android TV 14 Launcher & Dashboard dengan cuaca canggih, jadwal sepak bola, waktu sholat & adzan digital, siaran TV Nasional, Live Makkah/Madinah, Kids Lock, dan Ambient Screensaver.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

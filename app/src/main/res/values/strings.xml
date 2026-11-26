@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Nusantara TV</string>
+    <string name="dream_description">Layar Ambient Nusantara TV (Jam Digital, Cuaca &amp; Jadwal Sholat)</string>
+
+    <!-- Navigation -->
+    <string name="nav_home">Beranda</string>
+    <string name="nav_tv">TV Nasional</string>
+    <string name="nav_football">Jadwal Bola</string>
+    <string name="nav_prayer">Ibadah &amp; Makkah</string>
+    <string name="nav_apps">Aplikasi</string>
+    <string name="nav_settings">Pengaturan</string>
+
+    <!-- Quick Settings & Kids Lock -->
+    <string name="kids_lock_active">Mode Anak Aktif</string>
+    <string name="kids_lock_inactive">Mode Anak Mati</string>
+    <string name="enter_pin_title">Masukkan PIN Mode Anak (4 Digit)</string>
+    <string name="default_pin_hint">PIN default: 1234</string>
+    <string name="wrong_pin_error">PIN salah, coba lagi.</string>
+
+    <!-- Status & Common -->
+    <string name="wifi_connected">Wi-Fi Terhubung</string>
+    <string name="wifi_offline">Offline</string>
+    <string name="live_badge">LIVE</string>
+    <string name="btn_retry">Coba Lagi</string>
+    <string name="btn_screensaver">Screensaver</string>
+</resources>
